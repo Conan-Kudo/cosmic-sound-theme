@@ -1,4 +1,5 @@
-## Pop Sound Theme Source
+
+## COSMIC Sound Theme Source
 
 The source file is the .mmpz file; it's a standard LMMS project, and uses only default instruments and effects. It was created in LMMS 1.2, but it may work in LMMS 1.1.3 as well. 
 Each different sound is its own track, and there's a segment for each sound. Some tracks may require trimming to ensure they don't have too much silence. Be sure to apply a compressor and to normalize the sounds to ensure that chords aren't excessively loud and single-notes aren't too quiet. The ideal peak seems to be close to 0.6-ish in Audacity.
@@ -31,3 +32,6 @@ camera-shutter > screen-capture
 camera-focus
 count-down
 audio-volume-change
+
+## Public License
+CC-BY-SA-4.0
